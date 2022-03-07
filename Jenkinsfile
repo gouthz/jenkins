@@ -3,7 +3,7 @@ pipeline {
     stages {
         stage('build') {
             steps {
-                echo "hellon world"
+                echo "hellon world 2"
             }
         }
     }
